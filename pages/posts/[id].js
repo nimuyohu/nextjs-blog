@@ -15,7 +15,6 @@ export default function Post({ postData }) {
                 <meta name="twitter:site" content="@nimuyohu" />
                 <meta property="og:url" content={`https://nextjs-blog-nu-liard.vercel.app/posts/${postData.id}`} />
                 <meta property="og:title" content={postData.title} />
-                <meta property="og:description" content="" />
                 <meta property="og:image" content={`https://og-image-ongn02eli-nimuyohu.vercel.app/${postData.title}.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fvercel-triangle-black.svg&images=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1344214879335399424%2F_UAhhAHx_400x400.jpg`} />
             </Head>
             <Link href='/'>{'<<Top'}</Link>
