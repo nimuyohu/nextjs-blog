@@ -19,8 +19,8 @@ date: '2021-03-29'
 # インターン概要
 
 クックパッドのインターン用に用意されたAPIを用いて、Next.jsとTypeScriptを使って仕様書をもとに５日間かけてレシピサイトを作るというものでした。基本課題と応用課題に別れていて基本課題は、レシピ一覧画面、レシピ詳細画面、検索機能、次のページと前のページを表示させるものでした。応用課題は、OGP生成、CSS in JS、マイフォルダ機能、パフォーマンス最適化、無限スクロール機能等々がありました。
-詳細↓
-https://gist.github.com/hokaccha/7003c700f7d2ad276bfb458edd862abe
+
+[詳細](https://gist.github.com/hokaccha/7003c700f7d2ad276bfb458edd862abe "詳細")
 
 TypeScript、Next.jsでの開発は初挑戦だったたので、ワクワクしてました。
 
@@ -29,11 +29,12 @@ TypeScript、Next.jsでの開発は初挑戦だったたので、ワクワクし
 
 インターン3日前に、下の写真のようなノベルティが届きました。ハッカ油、ZERO(チョコレート)、クックパッドロゴ入りエコバッグ、パスタメジャー、ステッカーが届きました。社内ハッカソンのHackradeのハッカのハッカ油とゼロ（零度＝レード）をかけているようです。届いた時はテンション上がりました。
 
+![エビフライトライアングル](/images/cookpad.jpeg "Qiita")
 # １日目
 
 企業説明会とインターン概要の説明を聞きました。その後、JavaScript、TypeScript、React、Next.jsの講義動画を共有されたので、それを見て学習をはじめました。この講義動画はWebフロントエンドの技術の概要を掴むには凄く分かりやすくて良かったです。Webフロントエンド開発してみたい方、ぜひ見てください！
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ieZB3NFJTa8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ieZB3NFJTa8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # ２~４日目
 
@@ -62,4 +63,4 @@ TypeScriptやNext.jsは初めて挑戦しましたが、TypeScriptはリリー�
 インターン関係者の皆さん、大変お世話になりました。ありがとうございました。
 
 ## 成果物
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8SQNbsNfu34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/8SQNbsNfu34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
